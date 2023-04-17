@@ -1,0 +1,193 @@
+{
+  "control": [
+    {
+      "VTOY_DEFAULT_MENU_MODE": "1"
+    },
+    {
+      "VTOY_FILT_DOT_UNDERSCORE_FILE": "1"
+    }
+  ],
+  "theme": {
+    "file": [
+      "/ventoy/theme/Robotics/theme.txt",
+      "/ventoy/theme/GhostInTheShell/theme.txt",
+      "/ventoy/theme/TronLegacy/theme.txt"
+    ],
+    "default_file": 0,
+    "gfxmode": "1920x1080",
+    "display_mode": "GUI",
+    "fonts": [
+      "/ventoy/theme/Robotics/dejavu_sans_14.pf2",
+      "/ventoy/theme/Robotics/dejavu_sans_16.pf2",
+      "/ventoy/theme/Robotics/dejavu_sans_24.pf2",
+      "/ventoy/theme/Robotics/dejavu_sans_48.pf2",
+      "/ventoy/theme/Robotics/dejavu_sans_mono_24.pf2",
+      "/ventoy/theme/Robotics/terminus-12.pf2",
+      "/ventoy/theme/Robotics/terminus-14.pf2",
+      "/ventoy/theme/Robotics/terminus-16.pf2",
+      "/ventoy/theme/Robotics/terminus-18.pf2",
+      "/ventoy/theme/Robotics/terminus-18.pf2",
+      "/ventoy/theme/Robotics/cq_mono_24.pf2",
+      "/ventoy/theme/Robotics/cq_mono_regular_24.pf2",
+      "/ventoy/theme/Robotics/hack_regular_24.pf2",
+      "/ventoy/theme/Robotics/hack_regular_28.pf2",
+      "/ventoy/theme/Robotics/hack_regular_32.pf2",
+      "/ventoy/theme/Robotics/hack_regular_36.pf2",
+      "/ventoy/theme/Robotics/hack_regular_48.pf2",
+      
+      "/ventoy/fonts/dejavu_sans_14.pf2",
+      "/ventoy/fonts/dejavu_sans_16.pf2",
+      "/ventoy/fonts/dejavu_sans_24.pf2",
+      "/ventoy/fonts/dejavu_sans_48.pf2",
+      "/ventoy/fonts/dejavu_sans_mono_24.pf2",
+      "/ventoy/fonts/terminus-12.pf2",
+      "/ventoy/fonts/terminus-14.pf2",
+      "/ventoy/fonts/terminus-16.pf2",
+      "/ventoy/fonts/terminus-18.pf2",
+      "/ventoy/fonts/terminus-18.pf2",
+      "/ventoy/fonts/cq_mono_24.pf2",
+      "/ventoy/fonts/cq_mono_regular_24.pf2",
+      "/ventoy/fonts/hack_regular_24.pf2",
+      "/ventoy/fonts/hack_regular_28.pf2",
+      "/ventoy/fonts/hack_regular_32.pf2",
+      "/ventoy/fonts/hack_regular_36.pf2",
+      "/ventoy/fonts/hack_regular_48.pf2"
+    ]
+  },
+  "menu_alias": [
+    {
+      "image": "/ubuntu-16.04.7-desktop-amd64.iso",
+      "alias": "Ubuntu 16.04 LTS Installer"
+    },
+    {
+      "image": "/ubuntu-20.04.6-desktop-amd64.iso",
+      "alias": "Ubuntu 20.04 LTS Installer"
+    },
+    {
+      "image": "/ubuntu-22.04.2-desktop-amd64.iso",
+      "alias": "Ubuntu 22.04 LTS Installer"
+    }
+  ],
+  "menu_class": [
+    {
+      "key": "MX-",
+      "class": "mx"
+    },
+    {
+      "key": "Elementar",
+      "class": "elementary"
+    },
+    {
+      "key": "Windows_7",
+      "class": "windows7"
+    },
+    {
+      "key": "Windows_10",
+      "class": "windows10"
+    },
+    {
+      "key": "Windows_Server",
+      "class": "windows10"
+    },
+    {
+      "key": "Kubuntu",
+      "class": "Kubuntu"
+    },
+    {
+      "key": "Linuxmint",
+      "class": "Linuxmint"
+    },
+    {
+      "key": "Arch",
+      "class": "arch"
+    },
+    {
+      "key": "ArchLinux",
+      "class": "archlinux"
+    },
+    {
+      "key": "Chakra",
+      "class": "chakra"
+    },
+    {
+      "key": "Debian",
+      "class": "debian"
+    },
+    {
+      "key": "Deepin",
+      "class": "deepin"
+    },
+    {
+      "key": "Endeavouros",
+      "class": "endeavouros"
+    },
+    {
+      "key": "Fedora",
+      "class": "fedora"
+    },
+    {
+      "key": "Gentoo",
+      "class": "gentoo"
+    },
+    {
+      "key": "GNU",
+      "class": "gnu-linux"
+    },
+    {
+      "key": "Kali",
+      "class": "kali"
+    },
+    {
+      "key": "Kaos",
+      "class": "kaos"
+    },
+    {
+      "key": "Lubuntu",
+      "class": "lubuntu"
+    },
+    {
+      "key": "Linux",
+      "class": "other-Linux"
+    },
+    {
+      "key": "Manjaro",
+      "class": "manjaro"
+    },
+    {
+      "key": "Solus",
+      "class": "solus"
+    },
+    {
+      "key": "Opensuse",
+      "class": "opensuse"
+    },
+    {
+      "key": "SteamOS ",
+      "class": "steamos"
+    },
+    {
+      "key": "Ubuntu",
+      "class": "ubuntu"
+    },
+    {
+      "key": "Search",
+      "class": "find.efi"
+    },
+    {
+      "key": "Pop",
+      "class": "pop"
+    },
+    {
+      "key": "Xubuntu",
+      "class": "xubuntu"
+    },
+    {
+      "key": "CentOS",
+      "class": "centos"
+    },
+    {
+      "key": "Tails",
+      "class": "otherLinux"
+    }
+  ]
+}

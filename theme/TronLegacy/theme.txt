@@ -1,0 +1,54 @@
+# GRUB2 gfxmenu Linux theme
+# Designed for any resolution
+
+# Global Property
+title-text: "Ghost in the Shell"
+desktop-image: "background.jpg"
+desktop-color: "#000000"
+terminal-font: "Terminus 18"
+terminal-box: "terminal_box_*.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
+# Show the boot menu
++ boot_menu {
+  left = 5%
+  top = 30%
+  width = 45%
+  height = 40%
+  menu_pixmap_style = "boot_menu_*.png"
+  item_font = "Hack Regular 28"
+  item_color = "#AAFFCC"
+  icon_width = 28
+  icon_height = 28
+  item_icon_space = 20
+  item_height = 70
+  item_padding = 10
+  item_spacing = 20
+  selected_item_font = "Hack Regular 28"
+  selected_item_color = "#FFFFFF"
+  selected_item_pixmap_style = "select_*.png"
+}
+
+# Show an informational message.
++ hbox {
+    left = 25%
+    top = 95%
+    width = 10%
+    height = 30
+    align = "center"
+		+ label {text = "F1: " font = "CQ Mono Regular 24" color = "#AA88FF" align = "left"}
+		+ label {text = "Memdisk     " font = "CQ Mono Regular 24" color = "#88FFAA" align = "left"}
+		+ label {text = "F2: " font = "CQ Mono Regular 24" color = "#AA88FF" align = "left"}
+		+ label {text = "Power     " font = "CQ Mono Regular 24" color = "#88FFAA" align = "left"}
+		+ label {text = "F3: " font = "CQ Mono Regular 24" color = "#AA88FF" align = "left"}
+		+ label {text = "List View    " font = "CQ Mono Regular 24" color = "#88FFAA" align = "left"}
+		+ label {text = "F4: " font = "CQ Mono Regular 24" color = "#AA88FF" align = "left"}
+		+ label {text = "Local Boot    " font = "CQ Mono Regular 24" color = "#88FFAA" align = "left"}
+		+ label {text = "F5: " font = "CQ Mono Regular 24" color = "#AA88FF" align = "left"}
+		+ label {text = "Debug    " font = "CQ Mono Regular 24" color = "#88FFAA" align = "left"}
+
+}

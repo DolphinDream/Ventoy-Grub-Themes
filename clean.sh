@@ -1,0 +1,1 @@
+find .. -name "._*" | xargs rm
