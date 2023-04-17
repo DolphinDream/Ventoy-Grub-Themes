@@ -6,7 +6,7 @@ title-text: "Ghost in the Shell"
 desktop-image: "background.jpg"
 desktop-color: "#000000"
 terminal-font: "Terminus 18"
-terminal-box: "terminal_box_*.png"
+terminal-box: "pixmaps/terminal_box_*.png"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
@@ -19,7 +19,7 @@ terminal-border: "0"
   top = 30%
   width = 45%
   height = 40%
-  menu_pixmap_style = "boot_menu_*.png"
+  menu_pixmap_style = "pixmaps/boot_menu_*.png"
   item_font = "Hack Regular 28"
   item_color = "#AAFFCC"
   icon_width = 28
@@ -30,7 +30,7 @@ terminal-border: "0"
   item_spacing = 20
   selected_item_font = "Hack Regular 28"
   selected_item_color = "#FFFFFF"
-  selected_item_pixmap_style = "select_*.png"
+  selected_item_pixmap_style = "pixmaps/select_*.png"
 }
 
 # Show an informational message.
