@@ -3,7 +3,7 @@
 
 # Global Property
 title-text: "Ghost in the Shell"
-desktop-image: "background.jpg"
+desktop-image: "images/background.jpg"
 desktop-color: "#000000"
 terminal-font: "Terminus 18"
 terminal-box: "pixmaps/terminal_box_*.png"
