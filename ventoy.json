@@ -11,7 +11,8 @@
     "file": [
       "/ventoy/themes/Robotics/theme.txt",
       "/ventoy/themes/GhostInTheShell/theme.txt",
-      "/ventoy/themes/TronLegacy/theme.txt"
+      "/ventoy/themes/TronLegacy/theme.txt",
+      "/ventoy/themes/Mandalorian/theme.txt"
     ],
     "default_file": 0,
     "gfxmode": "1920x1080",
